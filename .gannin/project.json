@@ -2,6 +2,7 @@
   "boardsRepo" : "andrew-waters/orchard",
   "name" : "orchard",
   "repos" : [
-    "andrew-waters/orchard"
+    "andrew-waters/orchard",
+    "andrew-waters/compose"
   ]
 }
